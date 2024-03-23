@@ -1,0 +1,18 @@
+What is Generative AI?
+Generative AI enables users to quickly generate new content based on a variety of inputs. Inputs and outputs to these models can include text, images, sounds, animation, 3D models, or other types of data. Generative AI (GenAI) is a type of Artificial Intelligence that can create a wide variety of data, such as images, videos, audio, text, and 3D models. It does this by learning patterns from existing data, then using this knowledge to generate new and unique outputs. GenAI is capable of producing highly realistic and complex content that mimics human creativity, making it a valuable tool for many industries such as gaming, entertainment, and product design. Recent breakthroughs in the field, such as GPT (Generative Pre-trained Transformer) and Midjourney, have significantly advanced the capabilities of GenAI. These advancements have opened up new possibilities for using GenAI to solve complex problems, create art, and even assist in scientific research.
+
+
+
+How Does Generative AI Work?
+Generative AI models use neural networks to identify the patterns and structures within existing data to generate new and original content.
+
+One of the breakthroughs with generative AI models is the ability to leverage different learning approaches, including unsupervised or semi-supervised learning for training. This has given organizations the ability to more easily and quickly leverage a large amount of unlabeled data to create foundation models. As the name suggests, foundation models can be used as a base for AI systems that can perform multiple tasks. 
+
+Examples of foundation models include GPT-3 and Stable Diffusion, which allow users to leverage the power of language. For example, popular applications like ChatGPT, which draws from GPT-3, allow users to generate an essay based on a short text request. On the other hand, Stable Diffusion allows users to generate photorealistic images given a text input.
+
+How to Evaluate Generative AI Models?
+The three key requirements of a successful generative AI model are:  
+
+Quality: Especially for applications that interact directly with users, having high-quality generation outputs is key. For example, in speech generation, poor speech quality is difficult to understand. Similarly, in image generation, the desired outputs should be visually indistinguishable from natural images.
+Diversity: A good generative model captures the minority modes in its data distribution without sacrificing generation quality. This helps reduce undesired biases in the learned models.
+Speed: Many interactive applications require fast generation, such as real-time image editing to allow use in content creation workflows.
